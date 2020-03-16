@@ -6,7 +6,7 @@ Pytorch 基本架構教學
 
 ## 參考資料
 
-* Pytorch 官方教學： 
+* Pytorch 官方教學:  
 https://pytorch.org/tutorials/beginner/transfer_learning_tutorial.html
 
 * Data augmentation:  
